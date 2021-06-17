@@ -2,7 +2,7 @@
 - 👀 I’m interested in cloud technology and security
 - 🌱 I’m currently learning Python and how to be an awesome cloud engineer
 - 💞️ I’m looking to collaborate on anything cloud
-- 📫 How to reach me - onyiriukauc@gmail.com
+- 📫 How to reach me - onyiriukauc@gmail.com  https://www.linkedin.com/in/uche-onyiriuka-6625b456/
 
 <!---
 uche79/uche79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
